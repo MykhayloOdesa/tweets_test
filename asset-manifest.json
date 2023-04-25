@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/tweets_test/static/css/main.3c0c9886.css",
-    "main.js": "/tweets_test/static/js/main.ef49f9ec.js",
+    "main.css": "/tweets_test/static/css/main.ef9bdff6.css",
+    "main.js": "/tweets_test/static/js/main.e272530f.js",
+    "static/js/278.5df8ed97.chunk.js": "/tweets_test/static/js/278.5df8ed97.chunk.js",
+    "static/js/27.2847a067.chunk.js": "/tweets_test/static/js/27.2847a067.chunk.js",
+    "static/js/805.463413eb.chunk.js": "/tweets_test/static/js/805.463413eb.chunk.js",
+    "static/js/906.10f9fedd.chunk.js": "/tweets_test/static/js/906.10f9fedd.chunk.js",
+    "static/media/Montserrat-SemiBold.ttf": "/tweets_test/static/media/Montserrat-SemiBold.62b8eee010e3957d425f.ttf",
+    "static/media/Montserrat-Medium.ttf": "/tweets_test/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
+    "static/media/user_background.png": "/tweets_test/static/media/user_background.86562350dcaa714a1442.png",
     "index.html": "/tweets_test/index.html",
-    "main.3c0c9886.css.map": "/tweets_test/static/css/main.3c0c9886.css.map",
-    "main.ef49f9ec.js.map": "/tweets_test/static/js/main.ef49f9ec.js.map"
+    "main.ef9bdff6.css.map": "/tweets_test/static/css/main.ef9bdff6.css.map",
+    "main.e272530f.js.map": "/tweets_test/static/js/main.e272530f.js.map",
+    "278.5df8ed97.chunk.js.map": "/tweets_test/static/js/278.5df8ed97.chunk.js.map",
+    "27.2847a067.chunk.js.map": "/tweets_test/static/js/27.2847a067.chunk.js.map",
+    "805.463413eb.chunk.js.map": "/tweets_test/static/js/805.463413eb.chunk.js.map",
+    "906.10f9fedd.chunk.js.map": "/tweets_test/static/js/906.10f9fedd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c0c9886.css",
-    "static/js/main.ef49f9ec.js"
+    "static/css/main.ef9bdff6.css",
+    "static/js/main.e272530f.js"
   ]
 }

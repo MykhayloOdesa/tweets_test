@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweets_test=self.webpackChunktweets_test||[]).push([[805],{805:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var i,r=t(168),s=(t(791),t(444)),u=t(184),c=s.ZP.div(i||(i=(0,r.Z)(["\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n  padding: 30px;\n"])));function l(){return(0,u.jsx)(c,{children:(0,u.jsx)("p",{children:"Sorry, we have nothing to display for you..."})})}}}]);
+//# sourceMappingURL=805.463413eb.chunk.js.map
