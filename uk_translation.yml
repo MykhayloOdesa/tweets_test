@@ -1,0 +1,3 @@
+files:
+  - source: /tweets_test/blob/main/README.md
+    translation: tweets_test/%two_letters_code%/%original_file_name%
